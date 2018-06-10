@@ -1,0 +1,25 @@
+{
+  "name": "think-of-the-children",
+  "version": "1.0.0",
+  "description": "An AngularJS component decorator function that allows placing child components and directives on a component definition directly.",
+  "main": "think-of-the-children.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyrumwhite/think-of-the-children.git"
+  },
+  "keywords": [
+    "angularjs",
+    "decorator",
+    "components",
+    "children"
+  ],
+  "author": "Seth White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyrumwhite/think-of-the-children/issues"
+  },
+  "homepage": "https://github.com/hyrumwhite/think-of-the-children#readme"
+}
