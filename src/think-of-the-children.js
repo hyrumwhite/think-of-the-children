@@ -1,4 +1,4 @@
-export default function ThinkOfTheChildren(module) {
+function ThinkOfTheChildren(module) {
 
   const registerChildComponents = ({components}) => {
     for(var key in components) {
@@ -30,3 +30,5 @@ export default function ThinkOfTheChildren(module) {
 
   return module;
 };
+
+module.exports = ThinkOfTheChildren;
