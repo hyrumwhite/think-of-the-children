@@ -1,6 +1,6 @@
 {
   "name": "think-of-the-children",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An AngularJS component decorator function that allows placing child components and directives on a component definition directly.",
   "main": "dist/think-of-the-children.js",
   "module": "src/think-of-the-children.js",
